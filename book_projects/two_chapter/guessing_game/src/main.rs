@@ -6,7 +6,6 @@ fn main() {
     println!("Guess number!");
 
     let secret_number = rand::rng().random_range(1..101);
-    println!("Secret number: {}", secret_number);
 
     loop{
         println!("Please, get number: ");
