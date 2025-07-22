@@ -1,0 +1,1 @@
+C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\two_chapter\guessing_game\target\debug\guessing_game.exe: C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\two_chapter\guessing_game\src\main.rs
