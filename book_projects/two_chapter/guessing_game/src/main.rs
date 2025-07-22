@@ -1,7 +1,11 @@
 use std::io;
+use rand::Rng;
 
 fn main() {
     println!("Guess number!");
+
+    let secret_number = rand::rng().random_range(1..101);
+    println!("Secret number: {}", secret_number);
 
     println!("Please, get number: ");
 
