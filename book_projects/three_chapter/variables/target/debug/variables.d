@@ -1,0 +1,1 @@
+C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\variables\target\debug\variables.exe: C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\variables\src\main.rs
