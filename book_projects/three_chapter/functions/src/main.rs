@@ -1,7 +1,7 @@
 fn main() {
-    println!("Hello, world!");
+    another_function(5);
 }
 
-fn another_function() {
-    println!("Yes, this is another function");
+fn another_function(x: u32) {
+    println!("Value, this variables equals: {}", x);
 }
