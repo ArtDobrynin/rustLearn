@@ -1,0 +1,1 @@
+C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\branches\target\debug\branches.exe: C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\branches\src\main.rs
