@@ -1,0 +1,1 @@
+C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\ex\fibonachi\target\debug\fibonachi.exe: C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\ex\fibonachi\src\main.rs
