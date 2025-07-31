@@ -1,0 +1,1 @@
+C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\four_chapter\strings_learn\target\debug\strings_learn.exe: C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\four_chapter\strings_learn\src\main.rs
