@@ -1,6 +1,17 @@
 fn main() {
-    let mut s = String::from("hello");
-    s.push_str(", lol");
+    let s = String::from("lipsy");
+    print_programm(s);
 
-    println!("{}", s);
+    let x = true;
+    check_variable(x);
+
+    println!("{}", x);
+}
+
+fn print_programm(user_string: String) {
+    println!("{}", user_string);
+}
+
+fn check_variable(check: bool) {
+    println!("{}", check);
 }
