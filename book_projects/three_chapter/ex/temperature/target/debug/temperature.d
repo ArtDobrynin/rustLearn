@@ -1,0 +1,1 @@
+C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\ex\temperature\target\debug\temperature.exe: C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\ex\temperature\src\main.rs
