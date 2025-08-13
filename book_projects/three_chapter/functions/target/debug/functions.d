@@ -1,0 +1,1 @@
+C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\functions\target\debug\functions.exe: C:\Users\Zevirno\Desktop\Projects\rustLearn\book_projects\three_chapter\functions\src\main.rs
