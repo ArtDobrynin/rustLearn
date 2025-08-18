@@ -4,8 +4,14 @@ use std::io::Read;
 
 fn main() {
     let message = read_username_from_file();
-
-    println!("Message: {:?}", message);
+    match message {
+        Ok(ok) => {
+            println!("Message: {}", ok);
+        },
+        Err(error) => {
+            println!("Error with message {:?}", error);
+        }
+    };
 }
 
 fn read_username_from_file () -> Result<String, io::Error> {
