@@ -1,5 +1,12 @@
-fn main() {
-    let v = vec![1, 0, 3];
+use std::fs::File;
 
-    println!("{}", v[99]);
+fn main() {
+    let f = File::open("file.txt");
+
+    let f = match f {
+        Ok(file) => file,
+        Err(error) => {
+            panic!("Нет файла {}", error)
+        },
+    };
 }
