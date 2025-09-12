@@ -6,14 +6,14 @@ fn main() {
     println!("Max number is {}", max);
 }
 
-fn find_max(list: &[i32]) -> i32 {
-    let mut max= list[0];
+fn find_max(list: &[i32]) -> &i32 {
+    let mut max: &i32 = &list[0];
 
-    for &number in list.iter() {
+    for number in list.iter() {
         if number > max {
             max = number;
         }
     }
 
-    return max;
+    return &max;
 }
